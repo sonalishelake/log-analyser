@@ -97,6 +97,6 @@ public class LogFileGenerator {
     }
 
     public static void main(String[] args) {
-        LogFileGenerator.generateFile("src/main/resources/samples/logfile.txt", 50000);
+        LogFileGenerator.generateFile("src/main/resources/inputfile/logfile.txt", 50000);
     }
 }
