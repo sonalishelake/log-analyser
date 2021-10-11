@@ -13,8 +13,7 @@ git clone https://github.com/sonalishelake/log-analyser.git
 2. Open the project in an IDE of your choice.
 3. Run the main application - `com.github.sonalishelake.loganalyser.LogAnalyser`.
     1. Create/Update the Run Configuration for the class to provide the program argument.<br />
-       ![Edit Run Config window on Intellij](https://github.com/sonalishelake/log-analyser/blob/master/assets/run-config-loganalyser.png)
-
+       ![Edit Run Config window on Intellij](https://github.com/sonalishelake/log-analyser/blob/master/assets/run-config-loganalyser.png)   
        <br />
        A sample log file is available in `resources/inputfile/logfile.txt`
     2. You can generate a sample log file using the
