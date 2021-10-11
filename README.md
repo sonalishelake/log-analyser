@@ -1,4 +1,3 @@
-# log-analyser
 # Log Analyser
 
 A simple utility to read, parse and flag the evens from a log file.
@@ -20,7 +19,7 @@ git clone https://github.com/sonalishelake/log-analyser.git
        A sample log file is available in `resources/inputfile/logfile.txt`
     2. You can generate a sample log file using the
        utility `com.github.sonalishelake.loganalyser.utilities.LogFileGenerator`. You can specify the number of events to
-       be generated for the inputfile file.
+       be generated for the sample file.
     
 
 ## Summary of task
